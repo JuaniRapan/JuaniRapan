@@ -1,12 +1,44 @@
-# About Me:
-I’m a Computer Science student, currently focused on deepening my skills and building practical experience.
+# Hi there! I'm Juan Ignacio Rapan 👋
 
-# 💻:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JuaniRapan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JuaniRapan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuaniRapan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Data Analyst & BI Consultant | Data and Automation
+Currently based in La Plata, Argentina, I am in the final semester of my **Computer Science degree (Licenciatura en Sistemas)** at UNLP. I specialize in building data architectures, optimizing ETL pipelines, and developing agentic AI solutions.
 
 ---
+
+### 🛠️ Technical Stack & Skills
+
+**Data Engineering & Pipelines**
+* **Core:** ETL/ELT, Data Warehousing, Data Marts, Scalability.
+* **Orchestration & Streaming:** Apache Airflow, Apache Kafka, Spark Streaming.
+* **Storage & DBs:** PostgreSQL, MySQL, Data Lakehouses, Qlik Sense QVDs.
+* **Languages:** Python (Pandas, OOP), SQL, Bash/Shell Scripting, Linux SysAdmin.
+
+**AI & Modern Tech**
+* **AI Engineering:** Agentic AI, LangChain, LangGraph (Multi-agent systems).
+* **Cloud & Automation:** Docker, Web Scraping, Unix Automation.
+* **Full Stack Base:** Java, Kotlin, React.js, Flask.
+
+---
+
+### 🎓 Certifications & Education
+* **Licenciatura en Sistemas** - Universidad Nacional de La Plata (UNLP)
+* **IBM Professional Certificates:**
+    * *Agentic AI with LangChain and LangGraph*
+    * *ETL and Data Pipelines with Shell, Airflow and Kafka*
+    * *Data Science with Python & SQL*
+    * *_Hands-on Introduction to Linux Commands and Shell Scripting_*
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=JuaniRapan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="JuaniRapan's Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaniRapan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="170" />
+</p>
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-rapan/)
+
 [![](https://visitcount.itsvg.in/api?id=JuaniRapan&icon=0&color=0)](https://visitcount.itsvg.in)
