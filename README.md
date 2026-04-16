@@ -33,6 +33,7 @@ Currently based in La Plata, Argentina, I am in the final semester of my **Compu
 ### 📊 GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=JuaniRapan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="JuaniRapan's Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuaniRapan&theme=dark&hide_border=false" alt="JuaniRapan's Streak" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaniRapan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="170" />
 </p>
 
